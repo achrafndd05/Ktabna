@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665437635102",
+    "project_id": "application-58ada",
+    "storage_bucket": "application-58ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665437635102:android:88baa7a55d921de5fea40f",
+        "android_client_info": {
+          "package_name": "mohammedhachoud.flutter_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665437635102-f3n05rg1217i5ae16mssircj1qglglb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mohammedhachoud.flutter_application",
+            "certificate_hash": "97b248d5698391d0f21cc7458902b29299ff3137"
+          }
+        },
+        {
+          "client_id": "665437635102-6fuqd6b3casqvs79ulnubf1ojpp6kdap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEjDGtuzP_nSg9zTQxap5s9r9fn_1Soi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665437635102-6fuqd6b3casqvs79ulnubf1ojpp6kdap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
